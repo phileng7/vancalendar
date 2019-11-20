@@ -1,0 +1,23 @@
+[
+  {
+    "user": 1,
+    "email": "jonas@ig.com",
+    "password": "123",
+    "name": "Matt Kent",
+    "access_type": 0
+  },
+  {
+    "user": 2,
+    "email": "peter@ig.com",
+    "password": "456",
+    "name": "Peter Wayne",
+    "access_type": 1
+  },
+  {
+    "user": 3,
+    "email": "tony@ig.com",
+    "password": "789",
+    "name": "Tony Parker",
+    "access_type": 0
+  }
+]
